@@ -1,0 +1,17 @@
+//= require jquerytools/dateinput/dateinput.js
+//= require jquerytools/overlay/overlay.js
+//= require jquerytools/overlay/overlay.apple.js
+//= require jquerytools/rangeinput/rangeinput.js
+//= require jquerytools/scrollable/scrollable.js
+//= require jquerytools/scrollable/scrollable.autoscroll.js
+//= require jquerytools/scrollable/scrollable.navigator.js
+//= require jquerytools/tabs/tabs.js
+//= require jquerytools/tabs/tabs.slideshow.js
+//= require jquerytools/toolbox/toolbox.expose.js
+//= require jquerytools/toolbox/toolbox.flashembed.js
+//= require jquerytools/toolbox/toolbox.history.js
+//= require jquerytools/toolbox/toolbox.mousewheel.js
+//= require jquerytools/tooltip/tooltip.js
+//= require jquerytools/tooltip/tooltip.dynamic.js
+//= require jquerytools/tooltip/tooltip.slide.js
+//= require jquerytools/validator/validator.js
